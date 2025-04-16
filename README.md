@@ -51,7 +51,7 @@ The final structured data was saved to a `CSV` file and used for all downstream 
 
 ---
 
-## Repository Structure
+## Repository and File Structure
 
-- `notebooks/`: Full analysis and visualizations
+- `analysis.ipynb`: Full analysis and visualizations
 - `data/`: Clean dataset
